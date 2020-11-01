@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_271\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\allclasses-frame.html = 1604264686185
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\allclasses-noframe.html = 1604264686186
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\argfile = 1604264685343
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\constant-values.html = 1604264686133
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\deprecated-list.html = 1604264686182
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\help-doc.html = 1604264686193
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\index-all.html = 1604264686178
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\index.html = 1604264686190
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\options = 1604264685342
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\overview-tree.html = 1604264686170
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\package-list = 1604264686115
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\script.js = 1604264686196
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira\target\site\apidocs\stylesheet.css = 1604264686195
