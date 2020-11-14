@@ -1,0 +1,17 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_271\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\allclasses-frame.html = 1605372392711
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\allclasses-noframe.html = 1605372392712
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\argfile = 1605372392005
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\constant-values.html = 1605372392674
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\deprecated-list.html = 1605372392710
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\help-doc.html = 1605372392719
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\index-all.html = 1605372392706
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\index.html = 1605372392717
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\options = 1605372392005
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\overview-tree.html = 1605372392697
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\package-list = 1605372392659
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\script.js = 1605372392720
+C:\Users\mimir\Documents\Newton Paiva_2020\Newton Paiva _ 3 Periodo\Projeto Integrador\Java\ProjetoLira - Teste Unitario\target\site\apidocs\stylesheet.css = 1604264686195
